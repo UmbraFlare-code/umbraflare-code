@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">Hi 👋! My name is Maxuel</h2>
+<h1 align="center">Hi 👋! My name is Maxuel</h1>
 
 ###
 
@@ -15,12 +15,20 @@
 
 ###
 
+<p align="left">Estudiante de 7° ciclo de Ingeniería en Sistemas e Informática con experiencia en desarrollo de aplicaciones, bases de datos y análisis de datos. Habilidad en Python, SQL Server y diseño de interfaces. Enfocado en soluciones tecnológicas que optimicen procesos y aporten valor tangible.</p>
+
+###
+
+<p align="left">Busco contribuir al desarrollo de sistemas innovadores y eficientes en el ámbito tecnológico.</p>
+
+###
+
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UmbraFlare-code&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=es&hide_border=true" height="120" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=UmbraFlare-code&locale=es&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5" height="120" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UmbraFlare-code&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="120" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=UmbraFlare-code&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=es&hide_border=true" height="200" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=UmbraFlare-code&locale=es&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UmbraFlare-code&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="200" alt="languages graph"  />
 </div>
 
 ###
