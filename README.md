@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">Estudiante de 7° ciclo de Ingeniería en Sistemas e Informática con experiencia en desarrollo de aplicaciones, bases de datos y análisis de datos. Habilidad en Python, SQL Server y diseño de interfaces. Enfocado en soluciones tecnológicas que optimicen procesos y aporten valor tangible.</p>
+<p align="left">Estudiante de Ingeniería en Sistemas e Informática con experiencia en desarrollo de aplicaciones, bases de datos y análisis de datos. Habilidad en Python, SQL Server y diseño de interfaces. Enfocado en soluciones tecnológicas que optimicen procesos y aporten valor tangible.</p>
 
 ###
 
