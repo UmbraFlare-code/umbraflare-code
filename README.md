@@ -1,52 +1,121 @@
 <div align="center">
-  <img height="150" src="https://media.tenor.com/YUzRkMOL-3EAAAAM/programming-computer-frog.gif"  />
+  <img 
+    height="200"
+    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGduOWo1cG8zbjZmNXZqcXM4aGR6YTRtZW41dnZ4MXExbWRpbXJ2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QU7IFSUto0kIV0l5H8/giphy.gif"
+  />
 </div>
 
 ###
 
-<h1 align="center">Hi 👋! My name is Maxuel</h1>
+<h1 align="center">Hey 👋 I'm Maxuel</h1>
+
+<h3 align="center">
+  Full Stack Developer • Data Analyst • Tech Enthusiast
+</h3>
 
 ###
 
 <div align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=umaxuel@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=umaxuel&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo"  />
+    <img 
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+      height="28"
+    />
   </a>
-  <a href="https://www.linkedin.com/in/urquizo-oré-francis/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Maxuel%20U.O.%20%20&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
+
+  <a href="https://www.linkedin.com/in/urquizo-fm" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+      height="28"
+    />
+  </a>
+
+  <a href="https://github.com/umbraflare-code" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" 
+      height="28"
+    />
   </a>
 </div>
 
 ###
 
-<p align="left">Estudiante de Ingeniería en Sistemas e Informática con experiencia en desarrollo de aplicaciones, bases de datos y análisis de datos. Habilidad en Python, SQL Server y diseño de interfaces. Enfocado en soluciones tecnológicas que optimicen procesos y aporten valor tangible.</p>
+<p align="center">
+  Passionate about building modern applications and scalable systems.<br>
+  Systems Engineering student focused on software development and data solutions.<br>
+  Always learning new technologies and improving coding skills.
+</p>
 
 ###
 
-<p align="left">Busco contribuir al desarrollo de sistemas innovadores y eficientes en el ámbito tecnológico.</p>
-
-###
-
-<br clear="both">
+<h2 align="center">⚙️ Tech Stack</h2>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+
+  <img src="https://skillicons.dev/icons?i=cpp" height="55" />
+  <img width="10"/>
+
+  <img src="https://skillicons.dev/icons?i=cs" height="55" />
+  <img width="10"/>
+
+  <img src="https://skillicons.dev/icons?i=python" height="55" />
+  <img width="10"/>
+
+  <img src="https://skillicons.dev/icons?i=js" height="55" />
+  <img width="10"/>
+
+  <img src="https://skillicons.dev/icons?i=ts" height="55" />
+  <img width="10"/>
+
+  <img src="https://skillicons.dev/icons?i=html" height="55" />
+  <img width="10"/>
+
+  <img src="https://skillicons.dev/icons?i=css" height="55" />
+  <img width="10"/>
+
+  <img src="https://skillicons.dev/icons?i=react" height="55" />
+  <img width="10"/>
+
+  <img src="https://skillicons.dev/icons?i=nodejs" height="55" />
+  <img width="10"/>
+
+  <img src="https://skillicons.dev/icons?i=mysql" height="55" />
+  <img width="10"/>
+
+  <img src="https://skillicons.dev/icons?i=git" height="55" />
+  <img width="10"/>
+
+  <img src="https://skillicons.dev/icons?i=github" height="55" />
+  <img width="10"/>
+
+  <img src="https://skillicons.dev/icons?i=linux" height="55" />
+
 </div>
 
 ###
+
+<h2 align="center">Activity & Contribution</h2>
+
+###
+
+<div align="center">
+
+  <img 
+    src="https://streak-stats.demolab.com?user=umbraflare-code&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=umbraflare-code&theme=tokyo-night&hide_border=true&area=true"
+    width="65%"
+  />
+
+</div>
