@@ -48,7 +48,7 @@
 
 ###
 
-<h2 align="center">⚙️ Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 ###
 
@@ -105,17 +105,6 @@
   <img 
     src="https://streak-stats.demolab.com?user=umbraflare-code&theme=tokyonight&hide_border=true"
     height="180"
-  />
-
-</div>
-
-<br>
-
-<div align="center">
-
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=umbraflare-code&theme=tokyo-night&hide_border=true&area=true"
-    width="65%"
   />
 
 </div>
